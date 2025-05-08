@@ -277,13 +277,6 @@ video {
   color: white;
 }
 
-/*==.home__title {
-  font-size: var(--big-font-size);
-  font-weight: var(--font-extra-bold);
-  letter-spacing: 2px;
-  color: var(--white-color);
-}===*/
-
 .home__button {
   position: absolute;
   bottom: 5rem;
